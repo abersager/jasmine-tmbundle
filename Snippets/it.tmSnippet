@@ -4,8 +4,8 @@
 <dict>
 	<key>content</key>
 	<string>it("${1:description}", function() {
-  $0
-});</string>
+	$2
+});$0</string>
 	<key>name</key>
 	<string>it</string>
 	<key>scope</key>

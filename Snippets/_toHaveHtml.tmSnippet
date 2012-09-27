@@ -3,14 +3,14 @@
 <plist version="1.0">
 <dict>
 	<key>content</key>
-	<string>expect(${1:target}).not.toMatch(${2:pattern});</string>
+	<string>).toHaveHtml($1)$0</string>
 	<key>name</key>
-	<string>expect not to match</string>
+	<string>.toHaveHtml</string>
 	<key>scope</key>
 	<string>source.js.jasmine</string>
 	<key>tabTrigger</key>
-	<string>notm</string>
+	<string>).t</string>
 	<key>uuid</key>
-	<string>2B416A23-4DD1-4E11-AA8F-030CB5DD4316</string>
+	<string>1932EFE3-77DB-4CF5-8970-FAB79A8FB343</string>
 </dict>
 </plist>

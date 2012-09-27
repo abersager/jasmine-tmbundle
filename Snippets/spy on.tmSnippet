@@ -5,7 +5,7 @@
 	<key>content</key>
 	<string>spyOn(${1:object}, "${2:method}")$0;</string>
 	<key>name</key>
-	<string>spy on</string>
+	<string>spyOn</string>
 	<key>scope</key>
 	<string>source.js.jasmine</string>
 	<key>tabTrigger</key>

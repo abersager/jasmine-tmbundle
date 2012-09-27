@@ -3,13 +3,13 @@
 <plist version="1.0">
 <dict>
 	<key>content</key>
-	<string>spyOn(${1:object}, "${2:method}").andReturn(${3:arguments});</string>
+	<string>).andReturn(${1:arguments})</string>
 	<key>name</key>
-	<string>spy on and return</string>
+	<string>.andReturn</string>
 	<key>scope</key>
 	<string>source.js.jasmine</string>
 	<key>tabTrigger</key>
-	<string>sr</string>
+	<string>).a</string>
 	<key>uuid</key>
 	<string>EA1984D8-7FCC-4C48-8212-A82A5D26180C</string>
 </dict>

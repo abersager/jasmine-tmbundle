@@ -3,14 +3,14 @@
 <plist version="1.0">
 <dict>
 	<key>content</key>
-	<string>expect(${1:target}).not.toContain(${2:value});</string>
+	<string>).toBeDefined($1)$0</string>
 	<key>name</key>
-	<string>expect not to contain</string>
+	<string>.toBeDefined</string>
 	<key>scope</key>
 	<string>source.js.jasmine</string>
 	<key>tabTrigger</key>
-	<string>notc</string>
+	<string>).t</string>
 	<key>uuid</key>
-	<string>04643901-054A-4C97-9F26-E7704C75D1A3</string>
+	<string>87857DA3-19C4-40B9-86BF-63C45C71F909</string>
 </dict>
 </plist>

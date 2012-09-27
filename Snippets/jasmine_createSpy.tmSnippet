@@ -3,14 +3,14 @@
 <plist version="1.0">
 <dict>
 	<key>content</key>
-	<string>expect(${1:target}).toBeDefined();</string>
+	<string>jasmine.createSpy()</string>
 	<key>name</key>
-	<string>expect to be defined</string>
+	<string>jasmine.createSpy</string>
 	<key>scope</key>
 	<string>source.js.jasmine</string>
 	<key>tabTrigger</key>
-	<string>ed</string>
+	<string>spy</string>
 	<key>uuid</key>
-	<string>0A88A2A1-3A5A-4F3E-AE9A-D924275ADB3D</string>
+	<string>634C8BA8-C776-4A34-8808-D3CD2460F049</string>
 </dict>
 </plist>
