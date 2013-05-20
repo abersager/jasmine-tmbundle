@@ -3,13 +3,13 @@
 <plist version="1.0">
 <dict>
 	<key>content</key>
-	<string>).toHaveBeenCalled()$0</string>
+	<string>.toHaveBeenCalled()$0</string>
 	<key>name</key>
 	<string>.toHaveBeenCalled</string>
 	<key>scope</key>
 	<string>source.js.jasmine</string>
 	<key>tabTrigger</key>
-	<string>).t</string>
+	<string>.t</string>
 	<key>uuid</key>
 	<string>37804C48-16D1-4661-938C-A53D9E726623</string>
 </dict>
